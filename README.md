@@ -1,4 +1,4 @@
-#Simon Game: Testează-ți Memoria și Atenția
+#Simon Game: Testeaza-ti Atentia
 Acest proiect este o versiune online a clasicului joc „Simon”, dezvoltat folosind JavaScript, HTML și CSS. Jocul testează memoria jucătorului printr-o secvență crescătoare de culori, pe care acesta trebuie să o repete în ordinea corectă. Cu fiecare nivel, Simon Game devine mai provocator, adăugând o nouă culoare la secvență și solicitând jucătorului o atenție sporită pentru a reține secvențele mai lungi.
 
 Cum Funcționează Jocul:
