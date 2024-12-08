@@ -28,10 +28,10 @@ The player must memorize the sequence and reproduce it by clicking the colored b
    ```bash
    git clone https://github.com/RaresIgescu/SimonGame.git
    cd simon-game
-2. - Install dependencies:  
+2. Install dependencies:  
      ```bash
      npm install
      ```   
-3. - Start the server:  
+3. Start the server:  
      ```bash
      npm start
