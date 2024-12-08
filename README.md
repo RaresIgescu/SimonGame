@@ -26,5 +26,5 @@ The player must memorize the sequence and reproduce it by clicking the colored b
 ## How to Play
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/simon-game.git
+   git clone https://github.com/RaresIgescu/SimonGame.git
    cd simon-game
